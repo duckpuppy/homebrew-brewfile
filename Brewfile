@@ -259,6 +259,7 @@ brew 'rclone'
 brew 'reattach-to-user-namespace', args: ['with-wrap-launchctl', 'with-wrap-pbcopy-and-pbpaste']
 brew 'redis'
 brew 'rtv'
+brew 'ruby'
 brew 'ruby-install'
 brew 'rust'
 brew 'sane-backends', args: ['universal']
